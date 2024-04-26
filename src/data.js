@@ -40,7 +40,7 @@ export const projects = [
       subtitle: "Javascript & Inquirer Pkg",
       description:
         "A command-line application that dynamically generates a professional README.md file from a user's input. Because this cannot be deployed, the link will take you to a walk-through video of the application.",
-      image: "./project-5.gif",
+      image: "./public/Logo-Generator.png",
       link: "https://drive.google.com/file/d/19Wfd2AFQk1LGOa0srRqRM2b63M_lbfIe/view",
       githubRepo: "https://github.com/tmaraki/Logo-Generator"
       
@@ -50,7 +50,7 @@ export const projects = [
       subtitle: "Object-Relational Mapping, HTTP Methods, RESTful API, Express, and MySQL",
       description:
         "This is back-end application for an e-commerce site.",
-      image: "./project-6.gif",
+      image: './public/ORM-image.png',
       link: "https://www.youtube.com/watch?v=1ZR-rZxxRPI",
       githubRepo: "https://github.com/tmaraki/fantastic-umbrella"
     },
